@@ -62,7 +62,7 @@ local string_format = string.format
 
 --[[
 
-    Author: NmChris
+    Author: Shaxzy
     Version: 1.01
     Functionality: Disables anti-aim on knife
 
