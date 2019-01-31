@@ -79,4 +79,5 @@ if err then
     client.log("set_event_callback failed: ", err)
 end
 
-client.log("You successfully loaded the Swastika Hitmarker script.")
+client.log("HEIL HITLER!")
+-- You successfully loaded the Swastika Hitmarker script.
