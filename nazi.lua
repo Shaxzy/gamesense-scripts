@@ -5,7 +5,7 @@ local LocalPlayer = entity.get_local_player
 
 local posx, posy = client.screen_size()
 
--- syntax: client.draw_line(paint_ctx, xa, ya, xb, yb, r, g, b, a)
+-- syntax: client.draw_line(paint_ctx, xa, ya, xb, yb, r, g, b, a) GAYGAYANTIPASTE
 local DrawLine = client.draw_line
 
 local floor = math.floor
